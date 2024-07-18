@@ -1,0 +1,45 @@
+import java.util.*;
+class lvs
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hello CSE..");
+	}
+}		
+
+import java.util.*;
+class abc
+{
+	
+	public static void main (String args[])
+	{
+		int a=10;
+		System.out.println("The a value is"+a);
+	}
+}
+
+
+import java.util.*;
+class me
+{
+	public static void main (String args[])
+	{
+		int a=10,b=20 ;
+		System.out.println(a+b);
+	}
+	
+}
+
+
+import java.util.*;
+class web
+{
+	
+	public static void main (String args[])
+	{
+		int c=20 ;
+		String name = "CSE" ;
+		System.out.println("the value of c is"+c);
+		System.out.println("the branch name is\b"+name );
+	}
+}	
